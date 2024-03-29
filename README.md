@@ -1,4 +1,4 @@
-<img align="centre" alt="coding" width="900" src="https://github.com/aviralkaushik412/aviralkaushik412/blob/main/aviral%20kaushik.png">
+
 <!-- ![logo](https://github.com/aviralkaushik412/aviralkaushik412/blob/main/aviral%20kaushik.png) -->
 <h1 align="center">Hi 👋, I'm Aviral Kaushik </h1>
 <h3 align="center">A passionate Backend developer from India</h3>
