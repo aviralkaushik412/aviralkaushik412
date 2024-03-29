@@ -1,4 +1,4 @@
-![logo](https://github.com/aviralkaushik412/aviralkaushik412/commit/62fe241d01a0ff1008c3d29c81aaf4d6dda6f3d7)
+![logo](https://github.com/aviralkaushik412/aviralkaushik412/blob/main/aviral%20kaushik.png)
 <h1 align="center">Hi 👋, I'm Aviral Kaushik </h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
