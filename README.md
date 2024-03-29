@@ -1,4 +1,5 @@
-![logo](https://github.com/aviralkaushik412/aviralkaushik412/blob/main/aviral%20kaushik.png)
+<img align="centre" alt="coding" width="900" src="https://github.com/aviralkaushik412/aviralkaushik412/blob/main/aviral%20kaushik.png">
+<!-- ![logo](https://github.com/aviralkaushik412/aviralkaushik412/blob/main/aviral%20kaushik.png) -->
 <h1 align="center">Hi 👋, I'm Aviral Kaushik </h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
