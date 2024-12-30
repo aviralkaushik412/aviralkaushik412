@@ -8,11 +8,11 @@
 
 - 📄 I’m currently Studying Computer Science at [Chitkara University](https://www.chitkara.edu.in/)
 
-- 🌱 I’m currently learning **React, Tailwind CSS**
+- 🌱 I’m currently learning **Java, MongoDB**
 
 - 🔭 I’m currently working on [Recipe Sharing Platform](https://github.com/aviralkaushik412/TheTasteTrails)
 
-- 💬 Ask me about **Python, C, C++ and MySQL**
+- 💬 Ask me about **JAVA, C++ and DSA**
 
 - 📫 How to reach me **aviralkaushik412@gmail.com**
 
