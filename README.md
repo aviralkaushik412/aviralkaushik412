@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java, MongoDB**
 
-- 🔭 I’m currently working on [Recipe Sharing Platform](https://github.com/aviralkaushik412/TheTasteTrails)
+- 🔭 I’m currently working on [Skillmirror](https://github.com/aviralkaushik412/SkillMirror))
 
 - 💬 Ask me about **JAVA, C++ and DSA**
 
